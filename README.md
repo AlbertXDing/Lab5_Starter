@@ -1,6 +1,6 @@
 # Lab 5 - Starter
 
-Albert Ding
+Albert Ding(independent)
 
 introduction-to-github repo: https://github.com/AlbertXDing/introduction-to-github
 
